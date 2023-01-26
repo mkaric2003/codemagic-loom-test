@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "99916959972",
+    "project_id": "loom-test-codemagic",
+    "storage_bucket": "loom-test-codemagic.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:99916959972:android:02b839ce841fa7a23f1cf1",
+        "android_client_info": {
+          "package_name": "com.example.flutter_first_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "99916959972-1ucsm5rlepgpvh1vl3u8a0s6n0edhvug.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWSPDAFgwN7-6uL62IRI4SgvqhM_mRKDo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "99916959972-1ucsm5rlepgpvh1vl3u8a0s6n0edhvug.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
